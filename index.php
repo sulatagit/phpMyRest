@@ -4,8 +4,9 @@
  * phpMyRest is a PHP + MySQL RESTful API, developed by Sulata iSoft - www.sulata.com.pk
  * It has been kept as simple as possible to use and supports SQL input.
  * The only thing you need to change in the script is database configurations and API Key below.
+ * For a clean JSON output, errors have delierately been suppressed using @ sign.
  * The variables used are $_POST['sql'], $_POST['api_key'], $_POST['debug']
- * Creation date: January 19, 2016.
+ * Creation date: January 19, 2017.
  */
 
 #############################################
